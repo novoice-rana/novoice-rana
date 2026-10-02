@@ -1,5 +1,11 @@
 <div align="center">
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/novoice-rana/novoice-rana/output/snake-dark.svg"
+    alt="GitHub contribution snake"
+    width="90%"
+  />
+</p>
 # Rana Pratap Sarangi
 
 ### Full Stack • System Design • Distributed Systems • AI/ML • Security
