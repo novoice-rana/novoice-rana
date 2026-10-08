@@ -87,11 +87,8 @@ Currently, I am strengthening my fundamentals through *DSA and system design* wh
 
 ### Currently Learning
 
-**System Design · Database Design · AI / ML · DevOps Fundamentals**
+**AI / ML · DevOps Fundamentals**
 
-### Exploring
-
-**Cloud · Distributed Systems · Software Architecture · Cybersecurity**
 
 > *Learning the fundamentals, building real-world projects, and gradually developing into a strong software engineer.*
 
